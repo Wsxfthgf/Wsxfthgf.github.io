@@ -12,7 +12,7 @@
  "needLanguage":1},
  
  {"bid":"rxts.tsks.hkxs.txg",
- "auditState":0,
+ "auditState":1,
  "url":"http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000295&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
@@ -22,7 +22,7 @@
  "needLanguage":1},
  
   {"bid":"shwz.zzsh.hksh.shtf",
- "auditState":0,
+ "auditState":1,
  "url":"http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000295&game_version=3.16.3&initial=",
  "version":"1.0.1",
  "isPortrait":0,
